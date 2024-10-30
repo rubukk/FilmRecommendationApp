@@ -1,0 +1,26 @@
+﻿@model List<FilmRecommendationApp.Entities.FilmModel>
+
+<div class="container mt-4">
+    <h2>Film Listesi</h2>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Film Adı</th>
+                <th>Yıl</th>
+                <th>Tür</th>
+                <th>Açıklama</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var film in Model)
+            {
+                <tr>
+                    <td>@film.Title</td>
+                    <td>@film.Year</td>
+                    <td>@film.Genre</td>
+                    <td>@film.Description</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

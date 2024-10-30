@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{995D091F-97C9-48CC-ADF3-96D97532FDBC}|https">
+  <MonoDevelop.Ide.ItemProperties.FilmRecommendationApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/_ViewStart.cshtml">
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="35" Column="2" />
+      <File FileName="DataAccess/InMemoryFilmRepository.cs" Line="45" Column="2" />
+      <File FileName="Business/FilmService.cs" Line="22" Column="2" />
+      <File FileName="Controllers/FilmsController.cs" Line="22" Column="2" />
+      <File FileName="Program.cs" Line="31" Column="11" />
+      <File FileName="Views/_ViewStart.cshtml" Line="3" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FilmRecommendationApp" expanded="True">
+            <Node name="Business" expanded="True" />
+            <Node name="FilmRecommendationApp" expanded="True">
+              <Node name="Business" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="DataAccess" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="_ViewStart.cshtml" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="FilmRecommendationApp" expanded="True">
+            <Node name="FilmRecommendationApp" expanded="True">
+              <Node name="FilmRecommendationApp" expanded="True">
+                <Node name="Controllers" expanded="True" />
+                <Node name="FilmRecommendationApp.DataAccess.InMemoryFilmRepository" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

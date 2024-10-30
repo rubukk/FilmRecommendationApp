@@ -1,0 +1,9 @@
+/Users/rabiademir/Desktop/FilmRecommendationApp/Entities/bin/Debug/net8.0/Entities.deps.json
+/Users/rabiademir/Desktop/FilmRecommendationApp/Entities/bin/Debug/net8.0/Entities.dll
+/Users/rabiademir/Desktop/FilmRecommendationApp/Entities/bin/Debug/net8.0/Entities.pdb
+/Users/rabiademir/Desktop/FilmRecommendationApp/Entities/obj/Debug/net8.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rabiademir/Desktop/FilmRecommendationApp/Entities/obj/Debug/net8.0/Entities.csproj.CoreCompileInputs.cache
+/Users/rabiademir/Desktop/FilmRecommendationApp/Entities/obj/Debug/net8.0/Entities.dll
+/Users/rabiademir/Desktop/FilmRecommendationApp/Entities/obj/Debug/net8.0/refint/Entities.dll
+/Users/rabiademir/Desktop/FilmRecommendationApp/Entities/obj/Debug/net8.0/Entities.pdb
+/Users/rabiademir/Desktop/FilmRecommendationApp/Entities/obj/Debug/net8.0/ref/Entities.dll

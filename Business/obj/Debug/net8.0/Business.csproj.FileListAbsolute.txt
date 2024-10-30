@@ -1,0 +1,2 @@
+/Users/rabiademir/Desktop/FilmRecommendationApp/Business/obj/Debug/net8.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rabiademir/Desktop/FilmRecommendationApp/Business/obj/Debug/net8.0/Business.csproj.CoreCompileInputs.cache
